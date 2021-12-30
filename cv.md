@@ -1,7 +1,7 @@
 # Denis Zhevnov #
 ***
 ## Trainee/Junior Frontend Developer ##
-![Photo](https://github.com/Den4ik6233/rsschool-cv/Photo.jpg)
+![Photo](Photo.jpg)
 
 ### Contact information: ###
 ***
